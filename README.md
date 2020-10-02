@@ -8,7 +8,7 @@ About me:
 ✨ Apart from my *beginning* coding career path, I have a number of year of business experience in finance and supply chain - and I am on a mission to bring AI to more organizations, in an understandable way.
 
 
-## Check out my projects:
+### Check out my projects:
 
 :woman_student: [Teach AI in Business](https://github.com/aenyne/teach-AI-in-business)
 
