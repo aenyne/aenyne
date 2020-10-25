@@ -13,9 +13,7 @@
 
 :woman_student: [Teach AI in Business](https://github.com/aenyne/teach-AI-in-business)
 
-:framed_picture: [My Deepdream Gallery](https://deepdreamgenerator.com/u/aen/account)
-
-  
+:framed_picture: [My Deepdream Gallery](https://deepdreamgenerator.com/u/aen/account)  
   
   
 :woman_health_worker: :farmer: :woman_teacher: :astronaut: :woman_mechanic: :man_office_worker: :artist: :woman_firefighter:  	:breast_feeding:
