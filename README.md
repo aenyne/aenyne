@@ -21,7 +21,7 @@
 </a> My Codepen Account
 
 <br>
-  
+
 :woman_health_worker: :farmer: :woman_teacher: :astronaut: :woman_mechanic: :man_office_worker: :artist: :woman_firefighter:  	:breast_feeding:
 
 ### :small_red_triangle: The Delta Project - Manifest :small_red_triangle:
