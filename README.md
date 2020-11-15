@@ -8,6 +8,7 @@
 
 ✨ I have a number of years of business experience in finance and supply chain - and now I am engaging in creating a data driven culture in organizations. Also I am on a mission to bring AI to more organizations, in an understandable way. ✨ 
 
+<br>
 
 ### Check out my projects:
 
@@ -18,8 +19,7 @@
 <a href="https://www.codepen.io/aenyne">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a> My Codepen Account
-  
-<br>
+
 <br>
   
 :woman_health_worker: :farmer: :woman_teacher: :astronaut: :woman_mechanic: :man_office_worker: :artist: :woman_firefighter:  	:breast_feeding:
@@ -32,7 +32,7 @@ My vision is to prepare humanity for the age of singularity. I guess, we soon wi
 
 <br>
 
-### I learn:
+*I learn*:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
