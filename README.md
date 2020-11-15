@@ -8,7 +8,7 @@
 
 ✨ I have a number of years of business experience in finance and supply chain - and now I am engaging in creating a data driven culture in organizations. Also I am on a mission to bring AI to more organizations, in an understandable way. ✨ 
 
-<br>
+<br />
 
 ### Check out my projects:
 
@@ -18,9 +18,9 @@
 
 <a href="https://www.codepen.io/aenyne">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a> [My Codepen Account](https://www.codepen.io/aenyne)  
+</a> My Codepen Account  
 
-<br>
+<br />
 
 :woman_health_worker: :farmer: :woman_teacher: :astronaut: :woman_mechanic: :man_office_worker: :artist: :woman_firefighter:  	:breast_feeding:
 
