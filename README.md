@@ -18,7 +18,8 @@
 
 <a href="https://www.codepen.io/aenyne">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a> [My Codepen Account](https://www.codepen.io/aenyne)  
+</a> 
+[My Codepen Account](https://www.codepen.io/aenyne)  
 
 <br>
 
