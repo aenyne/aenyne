@@ -24,14 +24,6 @@
 
 <br>
 
-### :small_red_triangle: The Delta Project - Manifest :small_red_triangle:
-"My religion is very simple. My religion is kindness." --Dalai Lama XIV   
-My vision is to prepare humanity for the age of singularity. I guess, we soon will have techonogical possibilities we may never have dreamt of. However, we are still mere humans, guided by the will of nature in our genes that never had the time to adjust to a super-technological world. I want to use technology to make people more caring, more kind and more loving. We will use the knowdledge from psychology, neurology, economics, educationa and culture to achieve improvements towards more wealth, health, caring for every living, now and in future. I understand that this is an incremental process. Every little step will create change towards the better.
-
-:woman_health_worker: :farmer: :woman_teacher: :astronaut: :woman_mechanic: :man_office_worker: :artist: :woman_firefighter:  	:breast_feeding:
-
-<br>
-
 *I learn*:
 <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
