@@ -8,17 +8,20 @@
 
 ✨ I have a number of years of business experience in finance and supply chain - and now I am engaging in creating a data driven culture in organizations. Also I am on a mission to bring AI to more organizations, in an understandable way. ✨ 
 
+✨ Visit my [website](https://olgasawall.wixsite.com/olga-sawall) ✨ 
+
 <br>
 
 ### Check out my projects:
 
 :woman_student: [Teach AI in Business](https://github.com/aenyne/teach-AI-in-business)
 
-:framed_picture: [My Deepdream Gallery](https://deepdreamgenerator.com/u/aen/account)  
-
 <a href="https://www.codepen.io/aenyne">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a> <- My Codepen Account
+
+:framed_picture: [My Stable Diffusion Artwork](https://opensea.io/collection/journey-through-multiverse)
+:framed_picture: [My Deepdream Gallery](https://deepdreamgenerator.com/u/aen/account)  
 
 <br>
 
