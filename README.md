@@ -15,12 +15,13 @@
 ### Check out my projects:
 
 :woman_student: [Teach AI in Business](https://github.com/aenyne/teach-AI-in-business)
-
+<br>
 <a href="https://www.codepen.io/aenyne">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a> <- My Codepen Account
 
 :framed_picture: [My Stable Diffusion Artwork](https://opensea.io/collection/journey-through-multiverse)
+<br>
 :framed_picture: [My Deepdream Gallery](https://deepdreamgenerator.com/u/aen/account)  
 
 <br>
